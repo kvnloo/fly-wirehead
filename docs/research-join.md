@@ -9,7 +9,7 @@ It is **not** a trainable LLM, not a Qwen replacement, and not the FlyForge rese
 | Object | Repo | Role |
 | --- | --- | --- |
 | Claims, protocol, control table | [kvnloo/frontier-kb](https://github.com/kvnloo/frontier-kb) | Literature + permanent notes. Start at `literature/lit-20260912-flyforge-research-roadmap.md` (PR #13). |
-| Experiment engine | same repo, `apps/evolution-lab` | Genomes, promotion ladder, Pareto archive. Not this Shorts app. |
+| Experiment engine | same repo, `apps/evolution-lab` | Genomes, promotion ladder, Pareto archive. Gym = `hermes_recovery` (Gymnasium contract). Not this Shorts app. Not a FlyGym/OpenEvolve fork. |
 | Orchestration IR | [kvnloo/aodl](https://github.com/kvnloo/aodl) | HOTL 0.2. The specialist is an **executor port**, not a new kind and not a second DSL. No `consciousness` kind. |
 | Recovery events / escalation | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | P0 task owner. HOTL proposed at issue #88589. |
 | L0 authority | [kvnloo/hermes-keel](https://github.com/kvnloo/hermes-keel) | Default router cannot do project work; this demo must not grow a secret-bearing controller. |
