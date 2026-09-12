@@ -9,7 +9,7 @@ It is **not** a trainable LLM, not a Qwen replacement, and not the FlyForge rese
 | Object | Repo | Role |
 | --- | --- | --- |
 | Claims, protocol, control table | [kvnloo/frontier-kb](https://github.com/kvnloo/frontier-kb) | Literature + permanent notes. Start at `literature/lit-20260912-flyforge-research-roadmap.md` (PR #13). |
-| Experiment engine | [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab) | Genomes, promotion ladder, Pareto archive. Gym = `hermes_recovery` (Gymnasium contract). Onboarded to [Verified OSS Loop](https://github.com/kvnloo/verified-oss-loop); `ROADMAP.md` is maintainer-owned. Not this Shorts app. Not a FlyGym/OpenEvolve fork. |
+| Experiment engine | [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab) | Genomes, promotion ladder, Pareto archive. Gym = `hermes_recovery` (Gymnasium contract). Onboarded to [Verified OSS Loop](https://github.com/kvnloo/verified-oss-loop); [ROADMAP.md](https://github.com/kvnloo/evolution-lab/blob/main/ROADMAP.md) is maintainer-owned. P0 issue: [evolution-lab#2](https://github.com/kvnloo/evolution-lab/issues/2). Not this Shorts app. Not a FlyGym/OpenEvolve fork. |
 | Orchestration IR | [kvnloo/aodl](https://github.com/kvnloo/aodl) | HOTL 0.2. The specialist is an **executor port**, not a new kind and not a second DSL. No `consciousness` kind. |
 | Recovery events / escalation | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | P0 task owner. HOTL proposed at issue #88589. |
 | L0 authority | [kvnloo/hermes-keel](https://github.com/kvnloo/hermes-keel) | Default router cannot do project work; this demo must not grow a secret-bearing controller. |
@@ -32,4 +32,4 @@ Operator share that defined the program: [ChatGPT — Research fly vision claims
 - Claims that PAM11 Hz is dopamine concentration or that KC→MBON weight change is addiction.
 - Verified OSS Loop **claim leases** or Pareto evidence receipts. Those live on [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab) GitHub, not this Shorts fork.
 
-P0 of the research program is a **verified Hermes recovery controller** with a GRU baseline and a mandatory direct-input / rewire table, scored in joules per verified success. If that work needs MaleCNS arrays, consume them as a library from a separate experiment package — do not grow this demo into that package.
+P0 of the research program is a **verified Hermes recovery controller** with a GRU baseline and a mandatory direct-input / rewire table, scored in joules per verified success ([evolution-lab#2](https://github.com/kvnloo/evolution-lab/issues/2); acceptance in [ROADMAP.md](https://github.com/kvnloo/evolution-lab/blob/main/ROADMAP.md)). If that work needs MaleCNS arrays, consume them as a library from a separate experiment package — do not grow this demo into that package.
