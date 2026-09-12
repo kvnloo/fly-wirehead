@@ -10,7 +10,7 @@ The phone plays real footage. Its pixels stimulate the reconstructed fly network
 
 Inspired by [Stonkfly](https://github.com/nftechie/stonkfly). This fly has been given a phone.
 
-**Research join.** This app remaps I/O on a reconstructed graph. It is not a trainable LLM and not a Qwen replacement. The research program (Hermes recovery P0, AODL specialist port, control table) lives in [kvnloo/frontier-kb](https://github.com/kvnloo/frontier-kb). How this repo fits: [docs/research-join.md](docs/research-join.md).
+**Research join.** This app remaps I/O on a reconstructed graph. It is not a trainable LLM and not a Qwen replacement. Claims live in [kvnloo/frontier-kb](https://github.com/kvnloo/frontier-kb). The experiment engine is [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab). How this repo fits: [docs/research-join.md](docs/research-join.md).
 
 ## Run it
 
