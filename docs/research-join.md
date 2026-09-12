@@ -9,13 +9,13 @@ It is **not** a trainable LLM, not a Qwen replacement, and not the FlyForge rese
 | Object | Repo | Role |
 | --- | --- | --- |
 | Claims, protocol, control table | [kvnloo/frontier-kb](https://github.com/kvnloo/frontier-kb) | Literature + permanent notes. Start at `literature/lit-20260912-flyforge-research-roadmap.md` (PR #13). |
-| Experiment engine | [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab) | Genomes, promotion ladder, Pareto archive. Gym = `hermes_recovery` (Gymnasium contract). Not this Shorts app. Not a FlyGym/OpenEvolve fork. |
+| Experiment engine | [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab) | Genomes, promotion ladder, Pareto archive. Gym = `hermes_recovery` (Gymnasium contract). Onboarded to [Verified OSS Loop](https://github.com/kvnloo/verified-oss-loop); `ROADMAP.md` is maintainer-owned. Not this Shorts app. Not a FlyGym/OpenEvolve fork. |
 | Orchestration IR | [kvnloo/aodl](https://github.com/kvnloo/aodl) | HOTL 0.2. The specialist is an **executor port**, not a new kind and not a second DSL. No `consciousness` kind. |
 | Recovery events / escalation | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | P0 task owner. HOTL proposed at issue #88589. |
 | L0 authority | [kvnloo/hermes-keel](https://github.com/kvnloo/hermes-keel) | Default router cannot do project work; this demo must not grow a secret-bearing controller. |
 | Orchestra UI | [kvnloo/dash](https://github.com/kvnloo/dash) | Decodes \(\mathcal{O}_t\); does not own the calculus. |
 | Teaching surface | [kvnloo/humanity-vault](https://github.com/kvnloo/humanity-vault) | GraphQL projection of the vault. |
-| Evidence receipts | [kvnloo/verified-oss-loop](https://github.com/kvnloo/verified-oss-loop) | Lease a Pareto claim only after logs exist. |
+| Evidence receipts | [kvnloo/verified-oss-loop](https://github.com/kvnloo/verified-oss-loop) | Protocol only. **VOL claim leases live on evolution-lab GitHub** (`claimable` issues + receipts), not this Shorts fork. |
 
 Operator share that defined the program: [ChatGPT — Research fly vision claims](https://chatgpt.com/share/6aa4e9ce-e88c-83ea-bf45-0e9496a1ad6f?ogimg=plain). Engine share: [Evolution Lab](https://chatgpt.com/share/6aa4ef4a-f390-83e9-8afc-34905baf22eb?ogimg=plain).
 
@@ -30,5 +30,6 @@ Operator share that defined the program: [ChatGPT — Research fly vision claims
 - A second AODL spec or a “fly version of Qwen” training loop.
 - SWE-bench, TinyStories, or Hermes recovery as features of this Shorts app.
 - Claims that PAM11 Hz is dopamine concentration or that KC→MBON weight change is addiction.
+- Verified OSS Loop **claim leases** or Pareto evidence receipts. Those live on [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab) GitHub, not this Shorts fork.
 
 P0 of the research program is a **verified Hermes recovery controller** with a GRU baseline and a mandatory direct-input / rewire table, scored in joules per verified success. If that work needs MaleCNS arrays, consume them as a library from a separate experiment package — do not grow this demo into that package.
