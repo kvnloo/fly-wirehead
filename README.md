@@ -10,6 +10,8 @@ The phone plays real footage. Its pixels stimulate the reconstructed fly network
 
 Inspired by [Stonkfly](https://github.com/nftechie/stonkfly). This fly has been given a phone.
 
+**Research join.** This app remaps I/O on a reconstructed graph. It is not a trainable LLM and not a Qwen replacement. Claims live in [kvnloo/frontier-kb](https://github.com/kvnloo/frontier-kb). The experiment engine is [kvnloo/evolution-lab](https://github.com/kvnloo/evolution-lab). How this repo fits: [docs/research-join.md](docs/research-join.md).
+
 ## Run it
 
 You'll need **Python 3.11+**, a **C++17 compiler**, [uv](https://docs.astral.sh/uv/), **yt-dlp**, and **FFmpeg**. Allow several GB of disk space; **16 GB RAM** is recommended. Use a browser with WebGL 2 and H.264 playback.
